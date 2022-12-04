@@ -46,7 +46,6 @@ export const Item = styled.li`
 export const Label = styled.span`
     display: block;
     color: #b0b0b0;
-
 `;
 
 export const Quantity = styled.span`
