@@ -28,8 +28,6 @@ export const TransactionHistory = ({ items }) => {
           );
         })}
       </tbody>
-
-      {/* <TransactionHistoryBody items={items} /> */}
     </TableTransaction>
   );
 };
